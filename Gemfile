@@ -42,6 +42,9 @@ group :development do
   # https://github.com/alexch/rerun
   gem "rerun"
 end
+# Used to generate seed data
+  # https://github.com/faker-ruby/faker
+  gem "faker"
 
 # These gems will only be used when we are running tests
 group :test do
